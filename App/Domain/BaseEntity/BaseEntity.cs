@@ -1,0 +1,7 @@
+﻿namespace Domain.BaseEntity
+{
+    public abstract class BaseEntity<T> : IEntity
+    {
+        public T Id { get; set; }
+    }
+}

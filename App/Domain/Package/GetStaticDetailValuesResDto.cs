@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Domain.Package
+{
+    public class GetStaticDetailValuesResDto
+    {
+        [Column("value_1")]
+        public string Value1 { get; set; }
+
+        [Column("value_2")]
+        public string Value2 { get; set; }
+
+        [Column("value_3")]
+        public string Value3 { get; set; }
+
+        [Column("value_4")]
+        public string Value4 { get; set; }
+
+        [Column("value_5")]
+        public string Value5 { get; set; }
+
+        [Column("value_6")]
+        public string Value6 { get; set; }
+
+        [Column("value_7")]
+        public string Value7 { get; set; }
+
+        [Column("value_8")]
+        public string Value8 { get; set; }
+
+        [Column("value_9")]
+        public string Value9 { get; set; }
+
+        [Column("value_10")]
+        public string Value10 { get; set; }
+    }
+}

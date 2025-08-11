@@ -1,6 +1,6 @@
 ﻿using Application.Interfaces.IService;
-using System.Data;
 using Dapper;
+using System.Data;
 
 namespace Application.Interfaces.ICommon
 {

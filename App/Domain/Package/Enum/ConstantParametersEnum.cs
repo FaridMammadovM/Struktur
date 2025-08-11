@@ -1,6 +1,4 @@
-﻿using System.ComponentModel;
-
-namespace Domain.Package.Enum
+﻿namespace Domain.Package.Enum
 {
     public enum ConstantParametersEnum
     {

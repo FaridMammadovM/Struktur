@@ -1,5 +1,5 @@
-﻿using Domain.BaseEntity;
-using System.Linq.Expressions;
+﻿using System.Linq.Expressions;
+using Domain.BaseEntityModel;
 
 namespace Application.Interfaces.ICommon
 {

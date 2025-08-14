@@ -1,4 +1,4 @@
-﻿namespace Domain.BaseEntity
+﻿namespace Domain.BaseEntityModel
 {
     public interface IAudited
     {
